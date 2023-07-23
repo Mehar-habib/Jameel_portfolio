@@ -1,0 +1,82 @@
+@media only screen and (max-width: 1017px){
+    .header{
+        flex-direction: column;
+        width: 100%;
+        
+    }
+
+    .header .image img {
+        width: 100px;
+        margin-left: 12px;
+        
+    }
+    .sides{
+        flex-direction: column;
+    }
+    .header  .navbar ul li{
+        
+        padding:  12px 16px;
+       }
+       .header .navbar ul{
+        margin-right: 40px;
+       }
+       .side1 h1{
+        font-size: 25px;
+        
+       }
+       .auto-type{
+        margin-top: 20px;
+        font-size: 20px;
+       }
+       .side2 img {
+        height: 224px;
+        margin-top: 100px;
+    }
+    .side1 .heading img
+    {
+        height: 45px;
+        margin-left: 125px;
+        position: relative;
+        top: -7px;
+    }
+    .intro{
+        flex-direction: column;
+    }
+    .intro .text1 h1{
+        font-size: 30px;
+        margin-top: 70px;
+        margin-right: 12px;
+    }
+
+.intro .text1 p {
+    margin-left: 32px;
+    font-size: 14px;
+    padding: 3px 78px;
+}
+.intro .img1 img {
+    margin-top: 30px;
+    height: 200px;
+}
+
+
+.find{
+    margin-top: 110px;
+}
+.findon h1{
+    font-size: 30px;
+    margin-left: 47px;
+}
+.icons {
+    margin-top: 19px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer{
+    flex-direction: column;
+    height: 15vh;
+
+}
+.heading-2 h2{
+ font-size: 18px;
+}
+}
